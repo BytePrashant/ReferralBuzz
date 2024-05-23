@@ -1,0 +1,100 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": true
+    },
+    {
+      "id": 2,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": true
+    },
+    {
+      "id": 3,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": true
+    },
+    {
+      "id": 4,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": true
+    },
+    {
+      "id": 5,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": true
+    },
+    {
+      "id": 6,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": true
+    },
+    {
+      "id": 7,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": false
+    },
+    {
+      "id": 8,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": false
+    },
+    {
+      "id": 9,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": false
+    },
+    {
+      "id": 10,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": false
+    },
+    {
+      "id": 11,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": false
+    },
+    {
+      "id": 12,
+      "title": "Guitar Fundamentals",
+      "description": "The Air Jordan 4 Retro Reimagined Bred will release on Saturday, February 17, 2024. Your best opportunity to get these right now is by entering raffles and waiting for the official releases.",
+      "price": 299,
+      "instructor": "Prashant Tomar",
+      "isFeautred": true
+    }
+  ]
+}
